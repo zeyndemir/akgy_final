@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+
+
+pip install openmeteo-requests
+pip install requests-cache retry-requests numpy pandas
+
