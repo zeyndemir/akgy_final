@@ -11,6 +11,9 @@ O kodun Çıktısı : f41b2b9b28cc4dd7ae8f592d72baaeda ff166fa66e5947b39ace44ca2
 {'artists': {'href': 'https://api.spotify.com/v1/search?query=Taylor+Swift&type=artist&offset=0&limit=1', 'items': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'followers': {'href': None, 'total': 114610627}, 'genres': ['pop'], 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676', 'width': 640}, {'height': 320, 'url': 'https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676', 'width': 320}, {'height': 160, 'url': 'https://i.scdn.co/image/ab6761610000f178e672b5f553298dcdccb0e676', 'width': 160}], 'name': 'Taylor Swift', 'popularity': 100, 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}], 'limit': 1, 'next': 'https://api.spotify.com/v1/search?query=Taylor+Swift&type=artist&offset=1&limit=1', 'offset': 0, 'previous': None, 'total': 811}}
 
 
+####################################################################################################################################################################
+
+
 
 
 3. ADIMDAKİ YAPILMASI GEREKENLER : Ayrıca aynı repository içerisinde herhangi bir dilde API desteğine sahip basit bir uygulama geliştirilmesi istenmektedir. Bu uygulama içerisinde belirli bir enlem-boylam değerine göre son 2 günlük sıcaklık değerlerinin °C cinsinden ve nemlilik oranının % cinsinden ekrana yazdırılması beklenmektedir. Yukarıdaki bağlantıdaki "open-meteo" API'si kullanılabilir. İlgili uygulamanın nasıl çalıştırılacağı ve hangi dizinde konumlandırıldığı readme dosyası üzerinde basitçe (1 veya 2 satır yeterli) anlatılmalıdır.
