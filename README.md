@@ -46,7 +46,4 @@ Bu kodun çıktısı
     uvicorn main:app --reload
     ```
 
-3. Tarayıcınızda `http://127.0.0.1:8000/weather?latitude=39&longitude=35` adresine gidin.
-
-
 
